@@ -1,6 +1,6 @@
 # Google Software Product Sprint
 
-This repo contains Vasuman's portfolio and SPS projects.
+This repo contains Vasu's portfolio and SPS projects.
 
 To get started:
 
